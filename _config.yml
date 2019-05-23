@@ -8,10 +8,10 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
 # carpentry: "swc"
-carpentry: "dc"
+carpentry: "swc"
 # Overall title for pages.
-title: "Workshop Title"
-
+#title: "Workshop Title"
+title: "Software Carpentry Workshop at Colby College"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
